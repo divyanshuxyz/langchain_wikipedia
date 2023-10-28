@@ -18,7 +18,6 @@ Powered by LangChain and Streamlit
 To use the app:
 
 Clone the repository and install the dependencies:
-git clone https://github.com/your-username/langchain-wikipedia-streamlit-app.git
 cd langchain-wikipedia-streamlit-app
 pip install -r requirements.txt
 Start the Streamlit app:
